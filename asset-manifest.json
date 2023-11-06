@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FordPortfolio2023/static/css/main.e202db6e.css",
+    "main.js": "/FordPortfolio2023/static/js/main.19a61ad5.js",
+    "static/js/787.be358811.chunk.js": "/FordPortfolio2023/static/js/787.be358811.chunk.js",
+    "static/media/waterfall.jpg": "/FordPortfolio2023/static/media/waterfall.afc6fc3e3aa3561b1316.jpg",
+    "static/media/aya.jpg": "/FordPortfolio2023/static/media/aya.45d853580c891300d36d.jpg",
+    "static/media/book.jpg": "/FordPortfolio2023/static/media/book.2a2e1d965d047621ba0a.jpg",
+    "static/media/beach.jpg": "/FordPortfolio2023/static/media/beach.e2421cd4d509a23554aa.jpg",
+    "static/media/field.jpg": "/FordPortfolio2023/static/media/field.d0de0c4ba2ae49f2974e.jpg",
+    "static/media/WoF_Event_7(1).png": "/FordPortfolio2023/static/media/WoF_Event_7(1).6b13da52edb7403bd434.png",
+    "static/media/FordTeamPic.JPG": "/FordPortfolio2023/static/media/FordTeamPic.47963655be1346dc7127.JPG",
+    "static/media/sanjuan.png": "/FordPortfolio2023/static/media/sanjuan.cf2021128d6b7e693b8e.png",
+    "static/media/fishing.jpg": "/FordPortfolio2023/static/media/fishing.9045add05100e363fce0.jpg",
+    "static/media/mcwt2023hackathon.PNG": "/FordPortfolio2023/static/media/mcwt2023hackathon.280d172375697b156f53.PNG",
+    "static/media/futuregoals.png": "/FordPortfolio2023/static/media/futuregoals.4369804692c281de3c69.png",
+    "static/media/grad.jpeg": "/FordPortfolio2023/static/media/grad.1c9c738139cf3406a753.jpeg",
+    "static/media/hackathonpic2022.JPG": "/FordPortfolio2023/static/media/hackathonpic2022.6db27c15415eb4c67a88.JPG",
+    "static/media/ou-logo.jpeg": "/FordPortfolio2023/static/media/ou-logo.d9c507b2d031b3a9f4fb.jpeg",
+    "index.html": "/FordPortfolio2023/index.html",
+    "main.e202db6e.css.map": "/FordPortfolio2023/static/css/main.e202db6e.css.map",
+    "main.19a61ad5.js.map": "/FordPortfolio2023/static/js/main.19a61ad5.js.map",
+    "787.be358811.chunk.js.map": "/FordPortfolio2023/static/js/787.be358811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e202db6e.css",
+    "static/js/main.19a61ad5.js"
+  ]
+}
